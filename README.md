@@ -1,5 +1,7 @@
+> ⚠️ **Note:** Due to GitHub's limited PDF preview support, the `Report.pdf` may not render in-browser. Please download the file and open it locally to view the full report.
+
 # MicrowaveChannelSimulator_NYU-Wireless-Communications-Course-Project
-This is Siqi Bai and Bingsheng Hua's course project for Wireless Communications by professor Sundeep Rangan. You can check the details in report.pdf.
+This is Siqi Bai and Bingsheng Hua's course project for Wireless Communications by professor Sundeep Rangan. You can check the details in Report.pdf.
 This repository presents a physics-based simulation framework for modeling indoor wireless propagation in the 1–10 GHz frequency range. Built in MATLAB, the project combines electromagnetic modeling and system-level analysis through a series of modular steps:
 
 - **Multilayer wall reflection modeling** via transfer-matrix theory

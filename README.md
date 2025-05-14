@@ -22,3 +22,31 @@ This repository presents a physics-based simulation framework for modeling indoo
 
 📁 wireless_project.mlx # Main MATLAB Live Script (end-to-end implementation)
 📄 Report.pdf # Full technical report (NYU EE course)
+fig1-fig8: Results by Matlab
+
+## Requirements
+
+- MATLAB R2022a or later
+- Signal Processing Toolbox
+- Communications Toolbox
+- MATLAB Live Editor (for .mlx execution)
+
+- ## Applications
+
+- Indoor wireless system planning
+- Link budget estimation in multipath environments
+- Research on phased-array and beamforming design
+- Educational tool for propagation and channel modeling
+
+## Authors
+
+- Siqi Bai, New York University, Tandon School of Engineering  
+- Bingsheng Hua, New York University, Tandon School of Engineering  
+
+## License
+
+This project is released for academic and non-commercial use. Contact the authors for reuse in published or proprietary tools.
+
+---
+
+If you use or reference this work, please consider citing the accompanying report or acknowledging the repository.

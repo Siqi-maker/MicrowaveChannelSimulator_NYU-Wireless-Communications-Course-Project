@@ -22,9 +22,10 @@ This repository presents a physics-based simulation framework for modeling indoo
 
 ## File Structure
 
-📁 wireless_project.mlx # Main MATLAB Live Script (end-to-end implementation)
-📄 Report.pdf # Full technical report (NYU EE course)
-fig1-fig8 # Results by Matlab
+📄 wireless_project.mlx # Main MATLAB Live Script (end-to-end implementation)
+📄 wireless_project.pdf # PDF export of the Live Script (for quick viewing)
+📄 Report.pdf # Full technical report (course write-up with methodology and analysis)
+📁 fig1.png – fig8.png # Simulation results: coverage maps, PDP, beamforming gain, etc.
 
 ## Requirements
 
